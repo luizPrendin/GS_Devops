@@ -5,6 +5,10 @@
 
 # Documentação
 
+- Arquitetura:
+![image](https://github.com/user-attachments/assets/69f742ae-109a-4dd8-86a0-7a8900840b15)
+
+
 - Dockerfile:
 ```Dockerfile
 # Usar a imagem base do JDK 17
